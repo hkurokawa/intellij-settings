@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src - [rxjava]'" />
-    <option name="defaultScopeName" value="Directory '.../src - [rxjava]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src - [rxjava]'" />
+    <option name="customScope" value="File '.../src/test/java/NullableTest.java - [rxjava2-sample_test]'" />
+    <option name="defaultScopeName" value="File '.../src/test/java/NullableTest.java - [rxjava2-sample_test]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/test/java/NullableTest.java - [rxjava2-sample_test]'" />
   </component>
 </application>
