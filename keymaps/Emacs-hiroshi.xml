@@ -1,4 +1,7 @@
 <keymap version="1" name="Emacs-hiroshi" parent="Emacs">
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
@@ -30,4 +33,5 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.Push" />
 </keymap>
