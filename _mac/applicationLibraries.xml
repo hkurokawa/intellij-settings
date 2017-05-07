@@ -638,6 +638,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.6/templates" />
       </SOURCES>
     </library>
+    <library name="bootstrap-will_paginate (v0.0.10, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bootstrap-will_paginate-0.0.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bootstrap-will_paginate-0.0.10/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bootstrap-will_paginate-0.0.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bootstrap-will_paginate-0.0.10/config" />
+      </SOURCES>
+    </library>
     <library name="bourbon (v4.2.7, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bourbon-4.2.7/app" />
@@ -1670,6 +1680,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/faker-1.6.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="faker (v1.6.6, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/faker-1.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/faker-1.6.6/lib" />
       </SOURCES>
     </library>
     <library name="faker-japanese (v0.0.1, rbenv: 2.3.1) [gem]">
@@ -6012,6 +6030,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/whenever-0.9.7/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/whenever-0.9.7/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/whenever-0.9.7/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="will_paginate (v3.1.0, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/will_paginate-3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/will_paginate-3.1.0/lib" />
       </SOURCES>
     </library>
     <library name="xdan-datetimepicker-rails (v2.5.4, rbenv: 2.3.1) [gem]">
