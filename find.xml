@@ -3,5 +3,30 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.rb</mask>
+      <mask>*.r</mask>
+      <mask>*.erb.html</mask>
+      <mask>*.erb.htm</mask>
+      <mask>*.erb.ht</mask>
+      <mask>*.erb.h</mask>
+      <mask>*.erb.</mask>
+      <mask>*.erb</mask>
+      <mask>*.er</mask>
+      <mask>*.e</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
+    </recentFileMasks>
   </component>
 </application>
