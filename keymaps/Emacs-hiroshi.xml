@@ -7,6 +7,10 @@
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="meta alt g" />
   </action>
@@ -26,6 +30,7 @@
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
