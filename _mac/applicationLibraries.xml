@@ -256,6 +256,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-8.6.0/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v8.6.2, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-8.6.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-8.6.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-8.6.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-8.6.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="awesome_print (v1.8.0, rbenv: 2.5.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/awesome_print-1.8.0/lib" />
@@ -312,6 +322,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-2.11.63/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.11.65, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-2.11.65/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-2.11.65/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core (v2.11.39, rbenv: 2.5.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-2.11.39/lib" />
@@ -358,6 +376,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-2.11.63/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.11.65, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-2.11.65/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-2.11.65/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-rails (v1.0.1, rbenv: 2.5.1) [gem]">
@@ -414,6 +440,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-resources-2.11.63/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.11.65, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-resources-2.11.65/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-resources-2.11.65/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4 (v1.0.2, rbenv: 2.5.1) [gem]">
@@ -482,6 +516,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/brakeman-4.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="brakeman (v4.3.1, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/brakeman-4.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/brakeman-4.3.1/lib" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.3, rbenv: 2.5.1) [gem]">
@@ -782,6 +824,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/counter_culture-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="counter_culture (v1.12.0, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/counter_culture-1.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/counter_culture-1.12.0/lib" />
       </SOURCES>
     </library>
     <library name="crack (v0.4.3, rbenv: 2.5.1) [gem]">
@@ -1366,6 +1416,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/graphql-1.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="graphql (v1.8.2, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/graphql-1.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/graphql-1.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="graphql-batch (v0.3.9, rbenv: 2.5.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/graphql-batch-0.3.9/lib" />
@@ -1460,6 +1518,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/haml_lint-0.27.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="haml_lint (v0.28.0, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/haml_lint-0.28.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/haml_lint-0.28.0/lib" />
       </SOURCES>
     </library>
     <library name="hamlit (v2.8.8, rbenv: 2.5.1) [gem]">
@@ -1630,6 +1696,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="jaro_winkler (v1.5.1, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/jaro_winkler-1.5.1/lib" />
       </SOURCES>
     </library>
     <library name="jb (v0.5.0, rbenv: 2.5.1) [gem]">
@@ -2072,11 +2148,9 @@
     </library>
     <library name="oj (v3.6.2, rbenv: 2.5.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.6.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/oj-3.6.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.6.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/oj-3.6.2/lib" />
       </SOURCES>
     </library>
@@ -2170,6 +2244,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/paper_trail-9.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="paper_trail (v9.2.0, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/paper_trail-9.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/paper_trail-9.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="paper_trail-association_tracking (v1.0.0, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/paper_trail-association_tracking-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/paper_trail-association_tracking-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="parallel (v1.12.1, rbenv: 2.5.1) [gem]">
@@ -2320,6 +2410,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="powerpack (v0.1.2, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/powerpack-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/powerpack-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="premailer (v1.11.1, rbenv: 2.5.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/premailer-1.11.1/lib" />
@@ -2418,6 +2516,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-protection-2.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.3, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-protection-2.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-protection-2.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.7.0, rbenv: 2.5.1) [gem]">
@@ -2774,6 +2880,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.57.0/lib" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.57.1, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.57.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.57.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1, rbenv: 2.5.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/ruby-debug-ide-0.6.1/lib" />
@@ -3004,6 +3118,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sinatra-2.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v2.0.3, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sinatra-2.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sinatra-2.0.3/lib" />
       </SOURCES>
     </library>
     <library name="slack-notifier (v1.5.1, rbenv: 2.5.1) [gem]">
